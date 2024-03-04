@@ -1,0 +1,27 @@
+.Content{
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
+.imgLogo{
+
+        height: 5rem;
+        width: 5rem;
+        margin: 5px;
+        border-radius: 50rem;
+        border: solid 2px #c1ff95;
+        background-color: #c1ff95;
+    }
+.subContent{
+    font-size: 2.5rem;
+    color: gray;
+    margin: 1rem 0;
+}
+
+.linegreen{
+    height: 15px;
+    background-color: #c1ff95;
+    border: none;
+    border-radius: 10px;
+    margin: 0;
+}

@@ -1,0 +1,50 @@
+
+.ContentExperience{
+    margin: 2rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Experienceimg{
+    width: 80%;
+    height: 20vh;
+  border-radius: 50%;
+  background-color: black;
+}
+
+.tecnoname{
+font-size: 3rem;
+margin: 10px;
+}
+
+.contentvar{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.Progress{
+    background-color: #c1ff95;
+    border-radius: 1rem;
+    border: none;
+    width: 18rem;
+    margin: 0;
+    padding: 0;
+}
+
+.VarProgress{
+    width: 9rem;
+    height: 2rem;
+    background-color: #39a900;
+    border-radius: 1rem;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+.Level{
+    font-size: 1.6rem;
+    margin: 10px;
+}
